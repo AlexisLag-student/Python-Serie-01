@@ -15,3 +15,6 @@ Cloning this template for each new data analysis problem should facilitate data 
 ## Requirements
 - [A minimal Python environment for reproducible research in human movement sciences](https://github.com/DenisMot/Python-minimal-install) is my preferred solution.
 - Any IDE supporting python and jupyter notebooks is an alternative solution. 
+
+## The goal of this series is to analyze physiological data using Python and Git.
+
